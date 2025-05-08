@@ -1,12 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fatharani Sativa Dewi
 =============================================================================================================================================
 
-UI/UX and Data Analyst
-----------------------
+System Analyst atau Quality Assurance
+-------------------------------------
 
-I am a Semester 7 Informatics Engineering student at the Muhammadiyah University of Bandung. Active in the Student Association organization as General Treasurer. Have a high interest in the field of Front end Developer UI/UX and Data Analyst.
+I am a fresh graduate in Informatics Engineering with an interest in System Analyst, Artificial Intelligence (AI), and writing technical documentation such as user manuals and system development reports. During my studies and internship experience, I am accustomed to compiling structured and easy-to-understand technical documentation. Some types of documents that I have created include, Application usage guide (user manual), Business and technical process documentation, System analysis report, and Diagrams such as flowcharts, DFDs, and use cases
 
-* 🌍  I'm based in Bandung
+In addition, I am also interested in the use of AI technology, especially in supporting system digitalization, such as through the development of chatbots and fuzzy logic-based systems. I am accustomed to working carefully and have good communication skills in a team. My focus is to help organizations understand system needs clearly and document them well to support development and operational processes.
+
+* 🌍  I'm based in Karawang
 * ✉️  You can contact me at [fatharanisativa3@gmail.com](mailto:fatharanisativa3@gmail.com)
 
 <a href="https://www.github.com/fatharani999" target="_blank" rel="noreferrer"><img

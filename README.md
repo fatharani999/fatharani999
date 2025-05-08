@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fatharani Sativa Dewi
 =============================================================================================================================================
 
-System Analyst atau Quality Assurance
--------------------------------------
+System Analyst
+--------------
 
 I am a fresh graduate in Informatics Engineering with an interest in System Analyst, Artificial Intelligence (AI), and writing technical documentation such as user manuals and system development reports. During my studies and internship experience, I am accustomed to compiling structured and easy-to-understand technical documentation. Some types of documents that I have created include, Application usage guide (user manual), Business and technical process documentation, System analysis report, and Diagrams such as flowcharts, DFDs, and use cases
 
